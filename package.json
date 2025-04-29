@@ -3,10 +3,10 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://AyangealumunTerna.github.io/my-app",
+  "homepage": "https://AyangealumunTerna.github.io/Phishing-analyser",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b main -d build",
+    "deploy": "gh-pages -b main -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
