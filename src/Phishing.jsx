@@ -10,7 +10,8 @@ function PhishingAnalyzer() {
         'urgent', 'immediate action', 'verify your account', 'suspicious activity',
         'click here', 'update your information', 'password reset', 'account locked',
         'limited time offer', 'confirm your identity', 'prize winner', 'free gift',
-        'risk-free', 'money-back guarantee', 'act now', 'exclusive deal'
+        'risk-free', 'money-back guarantee', 'act now', 'exclusive deal', 'double your money',
+        'investment opportunity', 'easy money', 'secure your account', 'serousely in need of money'
     ]
 
     const handleInputChange = (e) => {
